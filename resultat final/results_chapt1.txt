@@ -1,0 +1,57 @@
+Top 15 tokens:
+('project', 124)
+('risk', 88)
+('management', 84)
+('process', 31)
+('practice', 15)
+('standard', 13)
+('plan', 9)
+('edition', 8)
+('amok', 7)
+('guide', 7)
+('principle', 7)
+('level', 7)
+('value', 7)
+('organization', 6)
+('conducted', 6)
+
+Top 15 bigrams:
+(('risk', 'management'), 59)
+(('project', 'risk'), 57)
+(('project', 'management'), 17)
+(('management', 'process'), 14)
+(('practice', 'standard'), 11)
+(('amok', 'guide'), 7)
+(('guide', 'edition'), 7)
+(('management', 'conducted'), 5)
+(('management', 'project'), 5)
+(('standard', 'project'), 4)
+(('project', 'plan'), 4)
+(('purpose', 'practice'), 3)
+(('risk', 'project'), 3)
+(('value', 'project'), 3)
+(('provide', 'standard'), 2)
+
+Top 15 trigrams:
+(('project', 'risk', 'management'), 48)
+(('amok', 'guide', 'edition'), 7)
+(('risk', 'management', 'process'), 6)
+(('project', 'management', 'process'), 6)
+(('risk', 'management', 'conducted'), 5)
+(('management', 'project', 'risk'), 4)
+(('purpose', 'practice', 'standard'), 3)
+(('practice', 'standard', 'project'), 3)
+(('standard', 'project', 'risk'), 3)
+(('de', 'need', 'amok'), 2)
+(('need', 'amok', 'guide'), 2)
+(('perform', 'risk', 'analysis'), 2)
+(('project', 'amok', 'guide'), 2)
+(('probability', 'impact', 'event'), 2)
+(('risk', 'project', 'risk'), 2)
+
+Terms with TF-IDF scores greater than 0.1:
+management: 0.4955362726708738
+practice: 0.10493709303618504
+processes: 0.12825644704422617
+project: 0.6646015892291719
+risk: 0.4605572416588121
