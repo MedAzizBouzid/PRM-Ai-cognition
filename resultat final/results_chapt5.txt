@@ -1,0 +1,58 @@
+Top 15 tokens:
+('risk', 91)
+('project', 35)
+('process', 16)
+('identify', 10)
+('cation', 10)
+('technique', 9)
+('response', 6)
+('end', 6)
+('bias', 6)
+('use', 6)
+('category', 5)
+('considered', 4)
+('objective', 4)
+('cause', 4)
+('effect', 4)
+
+Top 15 bigrams:
+(('risk', 'process'), 11)
+(('identify', 'risk'), 10)
+(('risk', 'cation'), 10)
+(('project', 'risk'), 5)
+(('technique', 'used'), 3)
+(('use', 'risk'), 3)
+(('cause', 'risk'), 3)
+(('risk', 'management'), 2)
+(('process', 'risk'), 2)
+(('cation', 'repeated'), 2)
+(('risk', 'end'), 2)
+(('project', 'objective'), 2)
+(('end', 'risk'), 2)
+(('level', 'detail'), 2)
+(('project', 'organization'), 2)
+
+Top 15 trigrams:
+(('identify', 'risk', 'process'), 7)
+(('risk', 'cation', 'repeated'), 2)
+(('technique', 'depend', 'ability'), 2)
+(('depend', 'ability', 'participant'), 2)
+(('ability', 'participant', 'think'), 2)
+(('risk', 'cation', 'technique'), 2)
+(('cause', 'risk', 'effect'), 2)
+(('risk', 'managed', 'rest'), 1)
+(('managed', 'rest', 'edh'), 1)
+(('rest', 'edh', 'risk'), 1)
+(('edh', 'risk', 'management'), 1)
+(('risk', 'management', 'planning'), 1)
+(('management', 'planning', 'completed'), 1)
+(('planning', 'completed', 'rest'), 1)
+(('completed', 'rest', 'process'), 1)
+
+Terms with TF-IDF scores greater than 0.1 (bigrams & trigrams):
+identify risks: 0.32314385329151046
+identify risks process: 0.16157192664575523
+project risk: 0.13849022283921877
+risk cation: 0.300062149484974
+risks end: 0.11540851903268232
+risks process: 0.2538987418719011

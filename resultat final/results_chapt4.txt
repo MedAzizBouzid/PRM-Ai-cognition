@@ -1,0 +1,61 @@
+Top 15 tokens:
+('risk', 110)
+('management', 96)
+('project', 76)
+('plan', 40)
+('process', 24)
+('stakeholder', 23)
+('level', 10)
+('success', 7)
+('need', 6)
+('related', 6)
+('approach', 5)
+('activity', 5)
+('required', 4)
+('nation', 3)
+('organization', 3)
+
+Top 15 bigrams:
+(('risk', 'management'), 80)
+(('project', 'risk'), 22)
+(('management', 'plan'), 21)
+(('management', 'process'), 21)
+(('plan', 'risk'), 12)
+(('project', 'management'), 9)
+(('management', 'activity'), 7)
+(('management', 'project'), 4)
+(('success', 'project'), 4)
+(('project', 'team'), 4)
+(('management', 'planning'), 3)
+(('time', 'effort'), 2)
+(('area', 'focus'), 2)
+(('criterion', 'risk'), 1)
+(('plan', 'acceptance'), 1)
+
+Top 15 trigrams:
+(('project', 'risk', 'management'), 19)
+(('risk', 'management', 'plan'), 18)
+(('risk', 'management', 'process'), 18)
+(('plan', 'risk', 'management'), 12)
+(('risk', 'management', 'activity'), 7)
+(('risk', 'management', 'project'), 3)
+(('project', 'management', 'plan'), 3)
+(('success', 'project', 'risk'), 3)
+(('risk', 'management', 'planning'), 3)
+(('management', 'project', 'management'), 2)
+(('management', 'process', 'carried'), 2)
+(('criterion', 'risk', 'management'), 1)
+(('management', 'plan', 'acceptance'), 1)
+(('plan', 'acceptance', 'stakeholder'), 1)
+(('acceptance', 'stakeholder', 'alignment'), 1)
+
+Terms with TF-IDF scores greater than 0.1 (bigrams & trigrams):
+management plan: 0.22534466240371193
+management process: 0.10328297026836797
+management processes: 0.10328297026836797
+plan risk: 0.13145105306883195
+plan risk management: 0.13145105306883195
+project risk: 0.19717657960324794
+project risk management: 0.18778721866975995
+risk management: 0.7511488746790398
+risk management plan: 0.19717657960324794

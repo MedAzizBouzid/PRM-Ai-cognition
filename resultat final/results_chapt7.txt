@@ -1,0 +1,59 @@
+Top 15 tokens:
+('risk', 94)
+('project', 61)
+('analysis', 45)
+('cost', 22)
+('process', 14)
+('objective', 12)
+('schedule', 10)
+('level', 9)
+('probability', 8)
+('estimate', 7)
+('model', 7)
+('data', 7)
+('perform', 6)
+('used', 6)
+('bias', 6)
+
+Top 15 bigrams:
+(('risk', 'analysis'), 35)
+(('analysis', 'process'), 12)
+(('perform', 'risk'), 9)
+(('project', 'risk'), 8)
+(('project', 'objective'), 5)
+(('risk', 'risk'), 5)
+(('contingency', 'reserve'), 5)
+(('line', 'item'), 4)
+(('item', 'cost'), 4)
+(('estimate', 'project'), 3)
+(('cost', 'schedule'), 3)
+(('project', 'model'), 3)
+(('project', 'contingency'), 3)
+(('model', 'project'), 2)
+(('project', 'used'), 2)
+
+Top 15 trigrams:
+(('perform', 'risk', 'analysis'), 9)
+(('risk', 'analysis', 'process'), 8)
+(('line', 'item', 'cost'), 4)
+(('project', 'contingency', 'reserve'), 3)
+(('monte', 'cargo', 'simulation'), 2)
+(('risk', 'risk', 'considered'), 2)
+(('estimate', 'project', 'risk'), 2)
+(('item', 'cost', 'schedule'), 2)
+(('cost', 'schedule', 'activity'), 2)
+(('model', 'project', 'used'), 2)
+(('used', 'risk', 'analysis'), 2)
+(('risk', 'root', 'cause'), 2)
+(('contingency', 'reserve', 'required'), 2)
+(('analysis', 'process', 'perform'), 1)
+(('process', 'perform', 'risk'), 1)
+
+Terms with TF-IDF scores greater than 0.1 (bigrams & trigrams):
+analysis process: 0.16156374967834802
+line item: 0.11309462477484362
+perform risk: 0.19387649961401762
+perform risk analysis: 0.19387649961401762
+project risk: 0.12925099974267842
+risk analysis: 0.581629498842053
+risk analysis process: 0.11309462477484362

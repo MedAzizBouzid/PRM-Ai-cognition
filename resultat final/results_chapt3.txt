@@ -1,0 +1,59 @@
+Top 15 tokens:
+('risk', 106)
+('project', 86)
+('management', 48)
+('process', 30)
+('action', 13)
+('chapter', 12)
+('technique', 11)
+('response', 11)
+('objective', 9)
+('step', 8)
+('uncertainty', 4)
+('task', 3)
+('assumption', 2)
+('result', 2)
+('stakeholder', 2)
+
+Top 15 bigrams:
+(('project', 'risk'), 38)
+(('risk', 'management'), 35)
+(('management', 'process'), 24)
+(('project', 'management'), 10)
+(('risk', 'project'), 9)
+(('end', 'risk'), 5)
+(('risk', 'owner'), 5)
+(('risk', 'response'), 5)
+(('objective', 'project'), 4)
+(('technique', 'used'), 4)
+(('scope', 'objective'), 4)
+(('uncertainty', 'project'), 2)
+(('element', 'project'), 2)
+(('management', 'project'), 2)
+(('project', 'uncertainty'), 1)
+
+Top 15 trigrams:
+(('project', 'risk', 'management'), 32)
+(('risk', 'management', 'process'), 21)
+(('project', 'management', 'process'), 3)
+(('step', 'project', 'risk'), 3)
+(('scope', 'objective', 'project'), 3)
+(('objective', 'project', 'risk'), 3)
+(('chapter', 'introduction', 'project'), 3)
+(('introduction', 'project', 'risk'), 3)
+(('element', 'project', 'management'), 2)
+(('project', 'management', 'project'), 2)
+(('management', 'project', 'risk'), 2)
+(('managing', 'risk', 'project'), 2)
+(('management', 'process', 'project'), 2)
+(('process', 'project', 'risk'), 2)
+(('project', 'uncertainty', 'project'), 1)
+
+Terms with TF-IDF scores greater than 0.1 (bigrams & trigrams):
+management process: 0.20390853567446127
+management processes: 0.10195426783723063
+project management: 0.15293140175584594
+project risk: 0.4842827722268455
+project risk management: 0.40781707134892253
+risk management: 0.446049921787884
+risk management process: 0.19116425219480743

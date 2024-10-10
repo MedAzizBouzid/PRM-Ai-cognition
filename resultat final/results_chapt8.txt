@@ -1,0 +1,64 @@
+Top 15 tokens:
+('risk', 120)
+('response', 75)
+('project', 45)
+('action', 24)
+('plan', 20)
+('owner', 16)
+('strategy', 16)
+('planning', 13)
+('management', 12)
+('tool', 8)
+('stakeholder', 6)
+('need', 6)
+('address', 6)
+('level', 6)
+('objective', 5)
+
+Top 15 bigrams:
+(('risk', 'response'), 37)
+(('plan', 'risk'), 11)
+(('risk', 'owner'), 7)
+(('risk', 'action'), 5)
+(('action', 'owner'), 5)
+(('project', 'objective'), 4)
+(('owner', 'risk'), 4)
+(('response', 'planning'), 4)
+(('risk', 'edh'), 3)
+(('integrated', 'project'), 3)
+(('project', 'management'), 3)
+(('management', 'plan'), 3)
+(('response', 'planned'), 3)
+(('address', 'threat'), 3)
+(('project', 'manager'), 3)
+
+Top 15 trigrams:
+(('plan', 'risk', 'response'), 8)
+(('risk', 'response', 'planning'), 6)
+(('risk', 'action', 'owner'), 5)
+(('integrated', 'project', 'management'), 3)
+(('project', 'management', 'plan'), 3)
+(('risk', 'edh', 'analyzed'), 2)
+(('risk', 'response', 'action'), 2)
+(('response', 'planned', 'level'), 2)
+(('risk', 'response', 'strategy'), 2)
+(('address', 'threat', 'opportunity'), 2)
+(('probability', 'anchor', 'impact'), 2)
+(('chapter', 'plan', 'risk'), 2)
+(('objective', 'plan', 'risk'), 1)
+(('risk', 'response', 'process'), 1)
+(('response', 'process', 'determine'), 1)
+
+Terms with TF-IDF scores greater than 0.1 (bigrams & trigrams):
+chapter plan: 0.10938835388564892
+chapter plan risk: 0.10938835388564892
+management plan: 0.12501526158359877
+plan risk: 0.18752289237539815
+plan risk responses: 0.18752289237539815
+project management: 0.12501526158359877
+project management plan: 0.12501526158359877
+response planning: 0.15626907697949846
+risk action: 0.12501526158359877
+risk response: 0.3125381539589969
+risk response planning: 0.14064216928154863
+risk responses: 0.3281650616569468

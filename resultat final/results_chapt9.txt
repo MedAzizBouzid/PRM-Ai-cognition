@@ -1,0 +1,60 @@
+Top 15 tokens:
+('risk', 74)
+('project', 51)
+('action', 25)
+('management', 21)
+('standard', 20)
+('response', 19)
+('practice', 18)
+('process', 16)
+('need', 10)
+('information', 10)
+('ensure', 9)
+('plan', 9)
+('owner', 8)
+('guide', 6)
+('planning', 4)
+
+Top 15 bigrams:
+(('practice', 'standard'), 18)
+(('risk', 'management'), 14)
+(('risk', 'response'), 8)
+(('monitor', 'control'), 6)
+(('response', 'action'), 4)
+(('management', 'process'), 4)
+(('control', 'risk'), 4)
+(('trigger', 'condition'), 4)
+(('tool', 'required'), 4)
+(('amok', 'guide'), 4)
+(('guide', 'edition'), 4)
+(('action', 'owner'), 3)
+(('risk', 'owner'), 3)
+(('risk', 'action'), 3)
+(('response', 'planning'), 3)
+
+Top 15 trigrams:
+(('monitor', 'control', 'risk'), 4)
+(('amok', 'guide', 'edition'), 4)
+(('risk', 'management', 'process'), 3)
+(('risk', 'monitoring', 'controlling'), 3)
+(('plan', 'risk', 'response'), 3)
+(('risk', 'response', 'planning'), 3)
+(('risk', 'action', 'owner'), 2)
+(('chapter', 'monitor', 'control'), 2)
+(('project', 'manager', 'ensure'), 2)
+(('control', 'risk', 'process'), 2)
+(('mi', 'practice', 'standard'), 2)
+(('input', 'tool', 'technique'), 2)
+(('practice', 'standard', 'mirror'), 2)
+(('phase', 'project', 'practice'), 2)
+(('project', 'practice', 'standard'), 2)
+
+Terms with TF-IDF scores greater than 0.1 (bigrams & trigrams):
+control risks: 0.11328823680740414
+monitor control: 0.1321696096086382
+monitor control risks: 0.11328823680740414
+practice standard: 0.28322059201851035
+project management: 0.11328823680740414
+project manager: 0.11328823680740414
+response actions: 0.11328823680740414
+risk management: 0.28322059201851035

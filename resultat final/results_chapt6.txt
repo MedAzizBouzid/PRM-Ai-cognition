@@ -1,0 +1,59 @@
+Top 15 tokens:
+('risk', 99)
+('analysis', 27)
+('project', 27)
+('process', 14)
+('objective', 11)
+('tool', 8)
+('priority', 8)
+('information', 7)
+('response', 6)
+('nation', 4)
+('importance', 4)
+('management', 4)
+('list', 4)
+('understanding', 4)
+('characteristic', 3)
+
+Top 15 bigrams:
+(('risk', 'analysis'), 18)
+(('project', 'risk'), 7)
+(('analysis', 'process'), 5)
+(('perform', 'risk'), 5)
+(('project', 'objective'), 4)
+(('risk', 'response'), 4)
+(('risk', 'project'), 4)
+(('list', 'risk'), 3)
+(('objective', 'risk'), 2)
+(('cause', 'risk'), 2)
+(('root', 'cause'), 2)
+(('agreed', 'approach'), 2)
+(('quality', 'information'), 2)
+(('used', 'assessing'), 2)
+(('assessing', 'risk'), 2)
+
+Top 15 trigrams:
+(('perform', 'risk', 'analysis'), 5)
+(('risk', 'analysis', 'process'), 3)
+(('risk', 'project', 'objective'), 2)
+(('project', 'objective', 'risk'), 2)
+(('risk', 'response', 'focus'), 2)
+(('used', 'assessing', 'risk'), 2)
+(('risk', 'analysis', 'tool'), 2)
+(('make', 'risk', 'interest'), 2)
+(('risk', 'interest', 'management'), 2)
+(('magnitude', 'project', 'risk'), 2)
+(('analysis', 'process', 'perform'), 1)
+(('process', 'perform', 'risk'), 1)
+(('analysis', 'process', 'assesses'), 1)
+(('process', 'assesses', 'evaluates'), 1)
+(('assesses', 'evaluates', 'characteristic'), 1)
+
+Terms with TF-IDF scores greater than 0.1 (bigrams & trigrams):
+analysis process: 0.15156628724104723
+perform risk: 0.1948709407384893
+perform risk analysis: 0.1948709407384893
+project objectives: 0.10826163374360516
+project risk: 0.12991396049232617
+risk analysis: 0.43304653497442064
+risk analysis process: 0.10826163374360516
